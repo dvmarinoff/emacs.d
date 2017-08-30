@@ -1,0 +1,204 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/val/projects/codedesignbg/codedesign/src/" . "codedesign/")
+ ("/home/val/projects/codedesignbg/" . "codedesign/")
+ ("/home/val/projects/gastronomybg_backup/" . "public/")
+ ("/home/val/projects/garbidge/clj-playground/clojure_brave/src/" . "clojure_brave/")
+ ("/home/val/projects/garbidge/clj-playground/clojure_brave/" . "src/")
+ ("/home/val/projects/garbidge/clj-playground/" . "clojure_brave/")
+ ("/home/val/projects/quests/learning_lisp/sicp/" . "src/")
+ ("/home/val/projects/quests/learning_lisp/sicp/src/" . "sicp/")
+ ("/home/val/projects/quests/learning_lisp/progfun/test/" . "progfun/")
+ ("/home/val/projects/quests/" . "learning_js/")
+ ("/home/val/projects/garbidge/cljs-playground/src/" . "demo/")
+ ("/home/" . "val/")
+ ("/" . "home/")
+ ("/home/val/projects/garbidge/cljs_static/cljs/src/" . "store/")
+ ("/home/val/projects/garbidge/cljs_static/cljs/" . "src/")
+ ("/home/val/projects/garbidge/cljs_static/" . "cljs/")
+ ("/home/val/projects/garbidge/tictactoe/src/" . "tictactoe/")
+ ("/home/val/projects/garbidge/tictactoe/" . "src/")
+ ("/home/val/projects/garbidge/omnext/src/" . "om_tutorial/")
+ ("/home/val/projects/garbidge/omnext/resources/" . "public/")
+ ("/home/val/projects/garbidge/omnext/" . "resources/")
+ ("/home/val/projects/quests/learning_lisp/progfun/src/" . "progfun/")
+ ("/home/val/projects/quests/learning_lisp/" . "sicp/")
+ ("/home/val/projects/quests/learning_lisp/progfun/" . "src/")
+ ("/home/val/projects/ecash/public/" . "js/")
+ ("/home/val/projects/ecash/" . "public/")
+ ("/home/val/projects/garbidge/progfun/src/" . "progfun/")
+ ("/home/val/projects/garbidge/progfun/" . "src/")
+ ("/home/val/projects/garbidge/" . "random_js/")
+ ("/home/val/projects/" . "garbidge/")
+ ("/home/val/" . "projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/val/projects/garbidge/random_js/"
+ "/home/val/projects/quests/learning_js/"
+ "/home/val/projects/quests/learning_cs/"
+ "/home/val/projects/quests/learning_lisp/"
+ "/home/val/projects/codedesignbg/codedesign/"
+ "/home/"
+ "/home/val/projects/codedesignbg/codedesign/src/codedesign/"
+ "/home/val/projects/gastronomybg_backup/"
+ "/home/val/projects/gastronomybg_backup/public/"
+ "/home/val/projects/gastronomybg_backup/public/js/"
+ "/home/val/projects/garbidge/"
+ "/home/val/projects/garbidge/clj-playground/clojure_brave/"
+ "/home/val/projects/garbidge/clj-playground/clojure_brave/src/clojure_brave/"
+ "/home/val/projects/quests/learning_lisp/sicp/src/sicp/"
+ "/home/val/projects/quests/learning_lisp/sicp/"
+ "/home/val/projects/quests/learning_lisp/progfun/src/progfun/"
+ "/home/val/projects/quests/learning_lisp/progfun/"
+ "/home/val/projects/quests/learning_lisp/progfun/test/progfun/"
+ "/home/val/projects/garbidge/cljs-playground/"
+ "/home/val/projects/garbidge/cljs-playground/src/demo/"
+ "/home/val/projects/garbidge/cljs_static/cljs/src/store/"
+ "/home/val/projects/garbidge/tictactoe/src/tictactoe/"
+ "/home/val/projects/garbidge/js_algo/"
+ "/home/val/projects/garbidge/omnext/src/om_tutorial/"
+ "/home/val/projects/garbidge/omnext/"
+ "/home/val/projects/garbidge/omnext/resources/public/"
+ "/home/val/projects/garbidge/omnext/script/"
+ "/home/val/projects/quests/learning_lisp/progfun/doc/"
+ "/home/val/projects/ecash/public/js/"
+ "/home/val/projects/garbidge/progfun/src/progfun/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "monads.js"
+ "functional_patterns.js"
+ "algo.js"
+ "clojure-brave.org"
+ "computability.txt"
+ "emacs_tutorial.txt"
+ "core.clj"
+ "checkout.html"
+ "main.js"
+ "application.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/val/projects/garbidge/random_js/" (22949 7018 939342 302000) "monads.js" "monads.js~" "index.html" "cs_2.js" "cs_1.js" "../" "./")
+
+ ("/home/val/projects/" (22949 15450 706398 128000) "quests/" "MIT_6.006/" "gastronomybg_backup/" "the_little_schemer/" "timeless/" "emails/" "codedesignbg/" "kipobg/" "prima.txt" "tns-demos/" "bin/" "jquery_starter_kit/" "ecash/" "partialconf/" "interhecsHerokuProduction/" "github.io/" "garbidge/" "portfolio/" "projectile_initial_commit.txt" "../" "texts/" "./" "ratethink/" "olapark/" "elm-demo/" "indium/" "barzakasa/" "projects.tar.gz")
+
+ ("/home/val/" (22949 16575 517892 493000) "Desktop/" ".nano/" ".m2/" ".multirust/" ".ionic/" ".xsession-errors.old" ".gradle/" ".bash_logout" ".thumbnails/" ".ICEauthority" ".atom/" ".bash_profile" ".lein/" ".gnupg/" "Downloads/" "Android/" "VirtualBox VMs/" ".gitconfig" ".profile" "Videos/" ".sudo_as_admin_successful" ".adobe/" ".netrc" ".ssh/" ".npm/" ".rustup/" "projects/" ".local/" "target/" ".thunderbird/" ".hplip/" "Music/" ".elm/" ".bash_history" ".gimp-2.8/" ".v8flags.5.5.372.42.3a6d0284e743dc4a9b86f97d6dd1a3bf.json" ".bashrc" ".cordova/" ".nvm/" "Templates/" ".racket/" ".kchmviewer/" ".android/" ".pki/" "Documents/" ".cache/" ".emacs.d/" ".ghc/" ".node_repl_history" "AndroidStudioProjects/" "../" "installs.txt" ".config/" ".xsession-errors" "./" ".vagrant.d/" ".viminfo" ".ivy2/" ".oracle_jre_usage/" ".dmrc" ".zshrc" ".vim/" ".Xauthority" ".mozilla/" "Public/" ".wget-hsts" ".vimrc" "examples.desktop" ".cargo/" ".parinfer-file-extensions.txt" "Pictures/" ".AndroidStudio2.3/" ".java/" ".gconf/" ".scala_history" ".gnome/" ".macromedia/" ".yarnrc" ".sbt/" ".tnsrc")
+
+ ("/home/val/projects/quests/learning_js/" (22948 27935 897509 854000) "javascript_manual.txt" "functional_patterns.js" "../" "./")
+
+ ("/home/val/projects/garbidge/" (22943 60259 840680 348000) "sicp/" "test_git/" "enlive-tutorial/" "omnext/" "js_data_structures/" "c_test/" "cljs-playground/" "random_js/" "cljs_quick_start_demo/" "tddbyexample/" "learning_rust/" "tictactoe/" "babel-flow/" "functional_starter_kit/" "../" "typed_classes/" "./" "reagent_test/" "elm-form/" "clj-playground/" "luminus_test/" "html_pipeline/" "land_of_lisp/")
+
+ ("/home/val/projects/quests/learning_cs/" (22945 10820 731292 150000) "computability.txt" "#computability.txt#" "algo.js" "discrete_math.txt" ".#computability.txt" "../" "./" "algorithm_complexity.txt")
+
+ ("/home/val/projects/quests/learning_lisp/" (22943 57041 134540 116000) "lisp_man.txt" "../" "./" "clojure-brave.org" "clojure_manual.txt" "random_clojure/")
+
+ ("/home/val/projects/quests/" (22943 57995 162517 485000) "learning_lisp/" ".gitignore" "learning_js/" "learning_haskell/" "README.md" "learning_scala/" ".git/" "../" "./" "learning_cs/" "learning_great_tools/")
+
+ ("/home/val/projects/the_little_schemer/" (22940 6974 188812 855000) "../" "./")
+
+ ("/home/val/projects/codedesignbg/codedesign/" (22889 58787 514711 797000) ".hgignore" ".gitignore" "project.clj" "CHANGELOG.md" "src/" "target/" "test/" "README.md" "doc/" "resources/" "project.clj~" ".nrepl-port" "../" "./" "LICENSE")
+
+ ("/home/val/projects/codedesignbg/codedesign/src/codedesign/" (22888 46817 178713 222000) "../" "./" "core.clj")
+
+ ("/home/val/projects/codedesignbg/codedesign/src/" (22888 46817 178713 222000) "codedesign/" "../" "./")
+
+ ("/home/val/projects/codedesignbg/" (22888 46817 170713 239000) "codedesign/" "../" "./")
+
+ ("/home/val/.emacs.d/" (22874 16196 181031 941000) ".init.el.swp" ".gitignore" "elpa/" "ido.last~" "ido.last" "init.el" "auto-save-list/" "projectile-bookmarks.eld" "../" "./" "themes/")
+
+ ("/home/val/.emacs.d/elpa/" (22874 16524 856166 423000) "rainbow-delimiters-2.1.3/" "clojure-mode-extra-font-locking-5.6.1/" "js2-mode-20170116/" "diminish-0.45/" "paredit-24/" "archives/" "emmet-mode-1.0.10/" "seq-2.19/" "ido-ubiquitous-3.16/" "git-commit-2.4.1/" "web-mode-14.1/" "magit-2.4.1/" "zenburn-theme-2.5/" "with-editor-2.4.1/" "tagedit-1.4.0/" "use-package-2.3/" "async-1.9.signed" "dash-2.13.0/" "../" "./" "company-0.9.3/" "magit-annex-20170702.832/" "pkg-info-0.6/" "cider-0.14.0/" "queue-0.1.1/" "s-1.11.0/" "spinner-1.7.3.signed" "async-1.9/" "ido-completing-read+-3.16/" "epl-0.8/" "bind-key-2.3/" "magit-popup-2.4.1/" "queue-0.1.1.signed" "projectile-0.14.0/" "seq-2.19.signed" "spinner-1.7.3/" "gnupg/" "clojure-mode-5.6.1/")
+
+ ("/home/val/.emacs.d/elpa/magit-annex-20170702.832/" (22874 16529 876152 833000) "magit-annex-autoloads.el" "magit-annex-pkg.elc" "magit-annex-pkg.el" "magit-annex.elc" "../" "./" "magit-annex-autoloads.el~" "magit-annex.el")
+
+ ("/home/val/projects/gastronomybg_backup/public/" (22874 16261 948863 304000) "images/" "js/" "index.html" "css/" "checkout.html" "item.html" ".#checkout.html" "../" "./" "lib/" "list.html")
+
+ ("/home/val/projects/gastronomybg_backup/public/js/" (22873 62839 374576 0) "main.js" "../" "./")
+
+ ("/home/val/projects/gastronomybg_backup/" (22873 65433 112550 526000) "nightwatch.json" "node_modules/" "spec.txt" ".gitignore" "package.json" "public/" ".bowerrc" "tests/" "reports/" ".git/" "bower.json" "../" "gulpfile.js" "./" "psd/" "selenium-debug.log")
+
+ ("/home/val/projects/garbidge/clj-playground/clojure_brave/" (22865 11627 219711 496000) ".hgignore" ".gitignore" "clojure-brave.org~" "project.clj" "CHANGELOG.md" ".lein-repl-history" "src/" "target/" "test/" "README.md" "doc/" "resources/" ".nrepl-port" "../" "./" "clojure-brave.org" "LICENSE")
+
+ ("/home/val/projects/garbidge/clj-playground/clojure_brave/src/clojure_brave/" (22865 12481 452753 631000) "core.clj~" ".#core.clj" "#core.clj#" "../" "./" "core.clj")
+
+ ("/home/val/projects/garbidge/clj-playground/clojure_brave/src/" (22863 38901 210899 925000) "../" "./" "clojure_brave/")
+
+ ("/home/val/projects/garbidge/clj-playground/" (22863 38901 206899 425000) "../" "./" "clojure_brave/")
+
+ ("/home/val/projects/quests/learning_lisp/sicp/src/sicp/" (22856 10795 92759 917000) "core.clj~" "../" "./" "core.clj")
+
+ ("/home/val/projects/quests/learning_lisp/sicp/" (22858 29053 808167 302000) ".hgignore" ".gitignore" "elm-package.json" "project.clj" "CHANGELOG.md" "src/" "target/" "test/" "README.md" "doc/" "resources/" "../" "./" "LICENSE")
+
+ ("/home/val/projects/quests/learning_lisp/sicp/src/" (22856 6846 649652 206000) "sicp/" "../" "./")
+
+ ("/home/val/projects/quests/learning_lisp/progfun/src/progfun/" (22851 5651 464283 321000) "core.clj~" "../" "./" "core.clj")
+
+ ("/home/val/projects/quests/learning_lisp/progfun/" (22851 5652 720277 478000) ".hgignore" ".gitignore" "project.clj" "CHANGELOG.md" ".lein-repl-history" "src/" "target/" "test/" "README.md" "doc/" "resources/" "../" "./" "LICENSE" ".lein-failures")
+
+ ("/home/val/projects/quests/learning_lisp/progfun/test/progfun/" (22799 10399 238473 134000) "core_test.clj" "../" "./" "core_test.clj~")
+
+ ("/home/val/projects/quests/learning_lisp/progfun/test/" (22790 17601 780102 780000) "../" "./" "progfun/")
+
+ ("/home/val/projects/garbidge/cljs-playground/src/demo/" (22850 16126 680155 996000) "core.cljs" "core.cljs~" "../" "./")
+
+ ("/home/val/projects/garbidge/cljs-playground/" (22849 35290 887434 219000) "figwheel_server.log" "main.js" "project.clj" "index.html" "src/" "target/" "project.clj~" "../" "./" "out/")
+
+ ("/home/val/projects/garbidge/cljs-playground/src/" (22849 34971 568139 754000) "../" "./" "demo/")
+
+ ("/home/" (22738 44871 727353 342000) "val/" "../" "./")
+
+ ("/home/val/projects/garbidge/cljs_static/cljs/src/store/" (22846 39738 1213 0) "core.cljs" "../" "./")
+
+ ("/home/val/projects/garbidge/cljs_static/cljs/src/" (22846 47382 900742 510000) "../" "./" "store/")
+
+ ("/home/val/projects/garbidge/cljs_static/cljs/" (22846 48614 364189 172000) "project.clj" "index.html" ".lein-repl-history" "src/" "target/" "cljs.jar" "build.clj" "../" "./" "out/" "watch.clj")
+
+ ("/home/val/projects/garbidge/cljs_static/" (22846 43018 980674 580000) "cljs/" "lein-test/" "public/" "../" "./")
+
+ ("/home/val/projects/garbidge/tictactoe/src/tictactoe/" (22822 48596 310599 303000) "core.cljs" "core.cljs~" "../" "./")
+
+ ("/home/val/projects/garbidge/tictactoe/src/" (22822 38772 23095 455000) "tictactoe/" "../" "./")
+
+ ("/home/val/projects/garbidge/tictactoe/" (22822 38819 897243 408000) "dev/" "figwheel_server.log" ".gitignore" "project.clj" "src/" "target/" "README.md" "resources/" "../" "./")
+
+ ("/home/val/projects/garbidge/js_algo/" (22813 34767 851396 712000) "node_modules/" "main.js" "package.json" "yarn.lock" "../" "./" "main.js~")
+
+ ("/home/val/projects/garbidge/omnext/src/om_tutorial/" (22809 22749 847865 982000) "core.cljs" "../" "./")
+
+ ("/home/val/projects/garbidge/omnext/src/" (22809 22731 852537 642000) "om_tutorial/" "../" "./")
+
+ ("/home/val/projects/garbidge/omnext/" (22809 22715 48653 393000) "project.clj" "src/" "script/" "resources/" "../" "./")
+
+ ("/home/val/projects/garbidge/omnext/resources/public/" (22807 62591 749997 894000) "index.html" "../" "./")
+
+ ("/home/val/projects/garbidge/omnext/resources/" (22807 62580 275281 471000) "public/" "../" "./")
+
+ ("/home/val/projects/garbidge/omnext/script/" (22807 62542 679342 116000) "figwheel.clj~" "../" "./" "figwheel.clj")
+
+ ("/home/val/projects/quests/learning_lisp/progfun/doc/" (22793 30637 763668 985000) "intro.md" "../" "./")
+
+ ("/home/val/projects/quests/learning_lisp/progfun/src/" (22790 17601 780102 780000) "../" "./" "progfun/")
+
+ ("/home/val/projects/ecash/public/js/" (22785 45507 856554 0) "main.js" "../" "./")
+
+ ("/home/val/projects/ecash/public/" (22785 60307 742542 27000) "images/" "js/" "index.html" "css/" "../" "./" "lib/")
+
+ ("/home/val/projects/ecash/" (22785 56164 995981 768000) "node_modules/" ".gitignore" "package.json" "public/" ".bowerrc" ".git/" "bower.json" "../" "gulpfile.js" "./" "psd/")
+
+ ("/home/val/projects/garbidge/progfun/src/progfun/" (22791 41357 730825 552000) "core.clj~" "../" "./" "core.clj")
+
+ ("/home/val/projects/garbidge/progfun/src/" (22790 17601 780102 780000) "../" "./" "progfun/")
+
+ ("/home/val/projects/garbidge/progfun/" (22790 17601 780102 780000) ".hgignore" ".gitignore" "project.clj" "CHANGELOG.md" "src/" "test/" "README.md" "doc/" "resources/" "../" "./" "LICENSE")
+
+ ("/home/val/.emacs.d/elpa/zenburn-theme-2.5/" (22790 17200 612261 889000) "zenburn-theme.el" "zenburn-theme-autoloads.el~" "zenburn-theme-autoloads.el" "zenburn-theme-pkg.el" "../" "zenburn-theme-pkg.elc" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
