@@ -37,6 +37,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/val/projects/garbidge/"
  "/home/val/projects/garbidge/random_js/"
  "/home/val/projects/quests/learning_js/"
  "/home/val/projects/quests/learning_cs/"
@@ -47,7 +48,6 @@
  "/home/val/projects/gastronomybg_backup/"
  "/home/val/projects/gastronomybg_backup/public/"
  "/home/val/projects/gastronomybg_backup/public/js/"
- "/home/val/projects/garbidge/"
  "/home/val/projects/garbidge/clj-playground/clojure_brave/"
  "/home/val/projects/garbidge/clj-playground/clojure_brave/src/clojure_brave/"
  "/home/val/projects/quests/learning_lisp/sicp/src/sicp/"
@@ -71,6 +71,7 @@
 
 ;; ----- ido-work-file-list -----
 (
+ ".the_little_schemer.scm.swp"
  "monads.js"
  "functional_patterns.js"
  "algo.js"
@@ -80,20 +81,19 @@
  "core.clj"
  "checkout.html"
  "main.js"
- "application.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/val/projects/garbidge/" (22992 64790 260717 274000) ".the_little_schemer.scm.swp" "todo_rails/" "random_js/" "random_code/" "../" "./")
+
+ ("/home/val/projects/" (22986 1916 505136 233000) "quests/" "MIT_6.006/" "gastronomybg_backup/" "the_little_schemer/" "timeless/" "emails/" "codedesignbg/" "yourthingbg/" "kipobg/" "prima.txt" "tns-demos/" "bin/" "jquery_starter_kit/" "flood-lighting/" "ecash/" "partialconf/" "interhecsHerokuProduction/" "github.io/" "garbidge/" "portfolio/" "projectile_initial_commit.txt" "../" "texts/" "./" "ratethink/" "olapark/" "elm-demo/" "indium/" "barzakasa/" "projects.tar.gz")
+
+ ("/home/val/" (22992 64824 856601 840000) "Desktop/" ".nano/" ".gem/" ".m2/" ".multirust/" ".ionic/" ".xsession-errors.old" ".gradle/" ".bash_logout" ".thumbnails/" ".ICEauthority" ".atom/" ".bash_profile" ".lein/" ".gnupg/" "Downloads/" "Android/" "VirtualBox VMs/" ".gitconfig" ".profile" "Videos/" ".sudo_as_admin_successful" ".adobe/" ".netrc" ".ssh/" ".npm/" ".rustup/" "projects/" ".local/" "target/" ".thunderbird/" ".hplip/" "Music/" ".elm/" ".bash_history" ".bundle/" ".gimp-2.8/" ".v8flags.5.5.372.42.3a6d0284e743dc4a9b86f97d6dd1a3bf.json" ".bashrc" ".cordova/" ".nvm/" "Templates/" ".racket/" ".kchmviewer/" ".android/" ".pki/" "Documents/" ".cache/" ".emacs.d/" ".ghc/" ".rbenv/" ".node_repl_history" "AndroidStudioProjects/" "../" "installs.txt" ".config/" ".xsession-errors" "./" ".vagrant.d/" ".viminfo" ".ivy2/" ".oracle_jre_usage/" ".dmrc" ".zshrc" ".vim/" ".Xauthority" ".mozilla/" "Public/" ".wget-hsts" ".vimrc" "examples.desktop" ".cargo/" ".parinfer-file-extensions.txt" "Pictures/" ".AndroidStudio2.3/" ".java/" ".gconf/" ".scala_history" ".gnome/" ".macromedia/" ".yarnrc" ".sbt/" ".tnsrc")
+
  ("/home/val/projects/garbidge/random_js/" (22949 7018 939342 302000) "monads.js" "monads.js~" "index.html" "cs_2.js" "cs_1.js" "../" "./")
 
- ("/home/val/projects/" (22949 15450 706398 128000) "quests/" "MIT_6.006/" "gastronomybg_backup/" "the_little_schemer/" "timeless/" "emails/" "codedesignbg/" "kipobg/" "prima.txt" "tns-demos/" "bin/" "jquery_starter_kit/" "ecash/" "partialconf/" "interhecsHerokuProduction/" "github.io/" "garbidge/" "portfolio/" "projectile_initial_commit.txt" "../" "texts/" "./" "ratethink/" "olapark/" "elm-demo/" "indium/" "barzakasa/" "projects.tar.gz")
-
- ("/home/val/" (22949 16575 517892 493000) "Desktop/" ".nano/" ".m2/" ".multirust/" ".ionic/" ".xsession-errors.old" ".gradle/" ".bash_logout" ".thumbnails/" ".ICEauthority" ".atom/" ".bash_profile" ".lein/" ".gnupg/" "Downloads/" "Android/" "VirtualBox VMs/" ".gitconfig" ".profile" "Videos/" ".sudo_as_admin_successful" ".adobe/" ".netrc" ".ssh/" ".npm/" ".rustup/" "projects/" ".local/" "target/" ".thunderbird/" ".hplip/" "Music/" ".elm/" ".bash_history" ".gimp-2.8/" ".v8flags.5.5.372.42.3a6d0284e743dc4a9b86f97d6dd1a3bf.json" ".bashrc" ".cordova/" ".nvm/" "Templates/" ".racket/" ".kchmviewer/" ".android/" ".pki/" "Documents/" ".cache/" ".emacs.d/" ".ghc/" ".node_repl_history" "AndroidStudioProjects/" "../" "installs.txt" ".config/" ".xsession-errors" "./" ".vagrant.d/" ".viminfo" ".ivy2/" ".oracle_jre_usage/" ".dmrc" ".zshrc" ".vim/" ".Xauthority" ".mozilla/" "Public/" ".wget-hsts" ".vimrc" "examples.desktop" ".cargo/" ".parinfer-file-extensions.txt" "Pictures/" ".AndroidStudio2.3/" ".java/" ".gconf/" ".scala_history" ".gnome/" ".macromedia/" ".yarnrc" ".sbt/" ".tnsrc")
-
  ("/home/val/projects/quests/learning_js/" (22948 27935 897509 854000) "javascript_manual.txt" "functional_patterns.js" "../" "./")
-
- ("/home/val/projects/garbidge/" (22943 60259 840680 348000) "sicp/" "test_git/" "enlive-tutorial/" "omnext/" "js_data_structures/" "c_test/" "cljs-playground/" "random_js/" "cljs_quick_start_demo/" "tddbyexample/" "learning_rust/" "tictactoe/" "babel-flow/" "functional_starter_kit/" "../" "typed_classes/" "./" "reagent_test/" "elm-form/" "clj-playground/" "luminus_test/" "html_pipeline/" "land_of_lisp/")
 
  ("/home/val/projects/quests/learning_cs/" (22945 10820 731292 150000) "computability.txt" "#computability.txt#" "algo.js" "discrete_math.txt" ".#computability.txt" "../" "./" "algorithm_complexity.txt")
 
